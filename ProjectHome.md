@@ -1,0 +1,1 @@
+jQueryLDAP is a java tool for querying an LDAP Server using the Sun JDK API (javax.naming.
